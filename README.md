@@ -3,7 +3,9 @@
 </p>  
 
 Yet another minimal Jekyll theme.  
-Based on [Minima](https://github.com/jekyll/minima) theme, inspired by [EvanHahn](http://evanhahn.com/)'s blog.
+Based on [Minima](https://github.com/jekyll/minima) theme, inspired by [EvanHahn](http://evanhahn.com/)'s blog, and used [VSCode theme](https://github.com/iamstevendao/pygments-css/blob/master/vscode.css) for code snippets.
+
+### Checkout [my blog](https://iamstevendao.github.io/blog/) as a sample.
 
 ## Installation
 Add this line to your Jekyll site's `Gemfile`:
@@ -16,11 +18,11 @@ theme: gracy
 ```
 And then execute:
 ```bash
-    $ bundle
+$ bundle
 ```
 Or install it yourself as:
 ```bash
-    $ gem install rollie
+$ gem install gracy
 ```
 
 ## Usage
@@ -30,7 +32,7 @@ Or install it yourself as:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/iamstevendao/gracy.
+Bug reports and pull requests are welcome on GitHub at [iamstevendao/gracy](https://github.com/iamstevendao/gracy).
 
 ## License
 
