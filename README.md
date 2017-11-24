@@ -15,9 +15,13 @@ And add this line to your Jekyll site's `_config.yml`:
 theme: gracy
 ```
 And then execute:
+```bash
     $ bundle
+```
 Or install it yourself as:
-    $ gem install gracy
+```bash
+    $ gem install rollie
+```
 
 ## Usage
 - Instructions about adding posts and diary are pretty much explained inside.

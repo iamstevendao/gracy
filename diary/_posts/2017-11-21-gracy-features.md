@@ -1,7 +1,7 @@
 ---
-title:  "Hello world! from Gracy"
-date:   2017-11-21 00:00:00 +1000
-anchor: hello-world-gracy
+title:  "Gracy's Features"
+date:   2017-11-20 00:00:00 +1000
+anchor: gracy-features
 ---
 This section called diary, used for short posts and small ideas which are different from Posts.
 
