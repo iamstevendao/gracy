@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./assets/icon.png" alt="gracy icon">
-</p>
+</p>  
+
 Yet another minimal Jekyll theme.  
 Based on [Minima](https://github.com/jekyll/minima) theme, inspired by [EvanHahn](http://evanhahn.com/)'s blog.
 
